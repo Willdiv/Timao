@@ -1,0 +1,676 @@
+body{
+	width: 100%;
+	height: 100%;
+}
+.1_2 { 
+	overflow:hidden;
+}
+.e1_2 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:1252px;
+	height:978px;
+	position:absolute;
+}
+.e48_12 { 
+	background-color:rgba(181.9531300663948, 181.9531300663948, 181.9531300663948, 0.41999998688697815);
+	width:1271px;
+	height:721px;
+	position:absolute;
+	left:-16px;
+	top:197px;
+}
+.e35_5 { 
+	background-color:rgba(255, 252.87500202655792, 252.87500202655792, 1);
+	width:1271px;
+	height:82px;
+	position:absolute;
+	left:-16px;
+	top:115px;
+}
+.35_5 { 
+	border:5px solid rgba(0, 0, 0, 1);
+}
+.e35_11 { 
+	background-color:rgba(0, 0, 0, 1);
+	width:1271px;
+	height:60px;
+	position:absolute;
+	left:-16px;
+	top:918px;
+}
+.e14_2 { 
+	background-color:rgba(0, 0, 0, 1);
+	width:1271px;
+	height:133px;
+	position:absolute;
+	left:-16px;
+	top:-18px;
+}
+.e65_11 { 
+	background-color:rgba(192.31249898672104, 189.90859597921371, 189.90859597921371, 1);
+	width:1280px;
+	height:69px;
+	position:absolute;
+	left:-25px;
+	top:197px;
+}
+.e35_3 { 
+	width:140px;
+	height:176px;
+	position:absolute;
+	left:549px;
+	top:4px;
+	background-image:url(corinthians.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e60_3 { 
+	width:30px;
+	height:35.14285659790039px;
+	position:absolute;
+	left:558px;
+	top:208px;
+	background-image:url(corinthians.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e61_5 { 
+	color:rgba(0, 0, 0, 1);
+	width:11px;
+	height:19px;
+	position:absolute;
+	left:615px;
+	top:224px;
+	font-family:Inter;
+	text-align:left;
+	font-size:16px;
+	letter-spacing:0;
+}
+.e35_9 { 
+	color:rgba(0, 0, 0, 1);
+	width:92px;
+	height:22px;
+	position:absolute;
+	left:856px;
+	top:147px;
+	font-family:Inter;
+	text-align:left;
+	font-size:18px;
+	letter-spacing:0;
+}
+.e35_10 { 
+	color:rgba(0, 0, 0, 1);
+	width:95px;
+	height:22px;
+	position:absolute;
+	left:999px;
+	top:147px;
+	font-family:Inter;
+	text-align:left;
+	font-size:18px;
+	letter-spacing:0;
+}
+.e35_6 { 
+	color:rgba(0, 0, 0, 1);
+	width:82px;
+	height:22px;
+	position:absolute;
+	left:283px;
+	top:147px;
+	font-family:Inter;
+	text-align:left;
+	font-size:18px;
+	letter-spacing:0;
+}
+.e35_7 { 
+	color:rgba(0, 0, 0, 1);
+	width:103px;
+	height:22px;
+	position:absolute;
+	left:105px;
+	top:147px;
+	font-family:Inter;
+	text-align:left;
+	font-size:18px;
+	letter-spacing:0;
+}
+.e35_8 { 
+	color:rgba(0, 0, 0, 1);
+	width:85px;
+	height:22px;
+	position:absolute;
+	left:720px;
+	top:147px;
+	font-family:Inter;
+	text-align:left;
+	font-size:18px;
+	letter-spacing:0;
+}
+.e35_22 { 
+	width:62px;
+	height:47px;
+	position:absolute;
+	left:283px;
+	top:40px;
+	background-image:url(fiel.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e35_24 { 
+	width:143px;
+	height:64px;
+	position:absolute;
+	left:370px;
+	top:18px;
+	background-image:url(sorte.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e35_18 { 
+	width:84px;
+	height:46px;
+	position:absolute;
+	left:134px;
+	top:34px;
+	background-image:url(nike.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e35_31 { 
+	width:144px;
+	height:67px;
+	position:absolute;
+	left:739px;
+	top:24px;
+	background-image:url(neo.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e35_37 { 
+	width:34px;
+	height:34px;
+	position:absolute;
+	left:948px;
+	top:48px;
+	background-image:url(face.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e65_22 { 
+	background-color:rgba(0, 0, 0, 1);
+	width:233px;
+	height:3px;
+	position:absolute;
+	left:603px;
+	top:784px;
+}
+.e65_23 { 
+	background-color:rgba(0, 0, 0, 1);
+	width:233px;
+	height:3px;
+	position:absolute;
+	left:883px;
+	top:785px;
+}
+.e65_21 { 
+	background-color:rgba(0, 0, 0, 1);
+	width:233px;
+	height:3px;
+	position:absolute;
+	left:323px;
+	top:784px;
+}
+.e65_14 { 
+	background-color:rgba(0, 0, 0, 1);
+	width:233px;
+	height:3px;
+	position:absolute;
+	left:43px;
+	top:783px;
+}
+.e35_39 { 
+	width:30px;
+	height:30px;
+	position:absolute;
+	left:1043px;
+	top:52px;
+	background-image:url(youtube.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e61_9 { 
+	width:30px;
+	height:30px;
+	position:absolute;
+	left:653px;
+	top:209px;
+	background-image:url(bocaj.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e65_25 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:1280px;
+	height:422px;
+	position:absolute;
+	left:-25px;
+	top:299px;
+}
+.e35_43 { 
+	width:35px;
+	height:33px;
+	position:absolute;
+	left:995px;
+	top:48px;
+	background-image:url(twitter.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e45_4 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:1271px;
+	height:15px;
+	position:absolute;
+	left:-14px;
+	top:736px;
+}
+.e65_35 { 
+	background-color:rgba(0, 0, 0, 1);
+	width:1271px;
+	height:174px;
+	position:absolute;
+	left:-14px;
+	top:553px;
+}
+.e45_3 { 
+	background-color:rgba(0, 0, 0, 1);
+	width:1271px;
+	height:15px;
+	position:absolute;
+	left:-9px;
+	top:721px;
+}
+.e45_2 { 
+	color:rgba(2.1250001108273864, 0, 0, 1);
+	width:127px;
+	height:29px;
+	position:absolute;
+	left:588px;
+	top:276px;
+	font-family:Inter;
+	text-align:left;
+	font-size:16px;
+	letter-spacing:0;
+}
+.e49_32 { 
+	color:rgba(0, 0, 0, 1);
+	width:221px;
+	height:18px;
+	position:absolute;
+	left:287px;
+	top:231px;
+	font-family:Inter;
+	text-align:left;
+	font-size:15px;
+	letter-spacing:0;
+}
+.e35_45 { 
+	width:270px;
+	height:155px;
+	position:absolute;
+	left:112px;
+	top:374px;
+	background-image:url(img1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e49_31 { 
+	color:rgba(0, 0, 0, 1);
+	width:196px;
+	height:19px;
+	position:absolute;
+	left:335px;
+	top:209px;
+	font-family:Inter;
+	text-align:left;
+	font-size:16px;
+	letter-spacing:0;
+}
+.e49_33 { 
+	color:rgba(0, 0, 0, 1);
+	width:137px;
+	height:18px;
+	position:absolute;
+	left:720px;
+	top:213px;
+	font-family:Inter;
+	text-align:left;
+	font-size:15px;
+	letter-spacing:0;
+}
+.e49_34 { 
+	color:rgba(0, 0, 0, 1);
+	width:257px;
+	height:18px;
+	position:absolute;
+	left:720px;
+	top:235px;
+	font-family:Inter;
+	text-align:left;
+	font-size:15px;
+	letter-spacing:0;
+}
+.e65_12 { 
+	color:rgba(0, 0, 0, 1);
+	width:226px;
+	height:76px;
+	position:absolute;
+	left:43px;
+	top:798px;
+	font-family:Inter;
+	text-align:left;
+	font-size:16px;
+	letter-spacing:0;
+}
+.e70_16 { 
+	width:368px;
+	height:183px;
+	position:absolute;
+	left:776px;
+	top:553px;
+	background-image:url(camisa-corinthians-1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e65_13 { 
+	color:rgba(0, 0, 0, 1);
+	width:91px;
+	height:19px;
+	position:absolute;
+	left:43px;
+	top:763px;
+	font-family:Inter;
+	text-align:left;
+	font-size:16px;
+	letter-spacing:0;
+}
+.e65_15 { 
+	color:rgba(0, 0, 0, 1);
+	width:84px;
+	height:19px;
+	position:absolute;
+	left:323px;
+	top:763px;
+	font-family:Inter;
+	text-align:left;
+	font-size:16px;
+	letter-spacing:0;
+}
+.e65_16 { 
+	color:rgba(0, 0, 0, 1);
+	width:76px;
+	height:19px;
+	position:absolute;
+	left:603px;
+	top:763px;
+	font-family:Inter;
+	text-align:left;
+	font-size:16px;
+	letter-spacing:0;
+}
+.e65_17 { 
+	color:rgba(0, 0, 0, 1);
+	width:82px;
+	height:19px;
+	position:absolute;
+	left:883px;
+	top:763px;
+	font-family:Inter;
+	text-align:left;
+	font-size:16px;
+	letter-spacing:0;
+}
+.e65_19 { 
+	color:rgba(0, 0, 0, 1);
+	width:133px;
+	height:19px;
+	position:absolute;
+	left:603px;
+	top:799px;
+	font-family:Inter;
+	text-align:left;
+	font-size:16px;
+	letter-spacing:0;
+}
+.e65_20 { 
+	color:rgba(0, 0, 0, 1);
+	width:202px;
+	height:95px;
+	position:absolute;
+	left:883px;
+	top:800px;
+	font-family:Inter;
+	text-align:left;
+	font-size:16px;
+	letter-spacing:0;
+}
+.e65_18 { 
+	color:rgba(0, 0, 0, 1);
+	width:150px;
+	height:95px;
+	position:absolute;
+	left:320px;
+	top:799px;
+	font-family:Inter;
+	text-align:left;
+	font-size:16px;
+	letter-spacing:0;
+}
+.e65_24 { 
+	color:rgba(0, 0, 0, 1);
+	width:183px;
+	height:30px;
+	position:absolute;
+	left:162px;
+	top:333px;
+	font-family:Inter;
+	text-align:left;
+	font-size:12px;
+	letter-spacing:0;
+}
+.e65_29 { 
+	color:rgba(0, 0, 0, 1);
+	width:219px;
+	height:30px;
+	position:absolute;
+	left:523px;
+	top:333px;
+	font-family:Inter;
+	text-align:left;
+	font-size:12px;
+	letter-spacing:0;
+}
+.e65_30 { 
+	color:rgba(0, 0, 0, 1);
+	width:235px;
+	height:30px;
+	position:absolute;
+	left:891px;
+	top:333px;
+	font-family:Inter;
+	text-align:left;
+	font-size:12px;
+	letter-spacing:0;
+}
+.e65_26 { 
+	background-color:rgba(0, 0, 0, 1);
+	width:1280px;
+	height:2px;
+	position:absolute;
+	left:-25px;
+	top:264px;
+}
+.e65_27 { 
+	width:270px;
+	height:156px;
+	position:absolute;
+	left:493px;
+	top:373px;
+	background-image:url(img2.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e65_28 { 
+	width:270px;
+	height:156px;
+	position:absolute;
+	left:874px;
+	top:373px;
+	background-image:url(img3.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e70_14 { 
+	width:344px;
+	height:182px;
+	position:absolute;
+	left:148px;
+	top:554px;
+	background-image:url(camisetas.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e65_31 { 
+	background-color:rgba(0, 0, 0, 1);
+	width:150px;
+	height:1px;
+	position:absolute;
+	left:170px;
+	top:534px;
+}
+.e65_32 { 
+	background-color:rgba(0, 0, 0, 1);
+	width:150px;
+	height:1px;
+	position:absolute;
+	left:553px;
+	top:535px;
+}
+.e65_33 { 
+	background-color:rgba(0, 0, 0, 1);
+	width:150px;
+	height:1px;
+	position:absolute;
+	left:934px;
+	top:536px;
+}
+.e65_34 { 
+	color:rgba(255, 255, 255, 1);
+	width:165px;
+	height:23px;
+	position:absolute;
+	left:558px;
+	top:576px;
+	font-family:Inter;
+	text-align:left;
+	font-size:16px;
+	letter-spacing:0;
+}
+.e70_17 { 
+	color:rgba(255, 255, 255, 1);
+	width:99px;
+	height:19px;
+	position:absolute;
+	left:588px;
+	top:603px;
+	font-family:Inter;
+	text-align:left;
+	font-size:16px;
+	letter-spacing:0;
+}
+.e70_18 { 
+	color:rgba(255, 255, 255, 1);
+	width:57px;
+	height:19px;
+	position:absolute;
+	left:615px;
+	top:632px;
+	font-family:Inter;
+	text-align:left;
+	font-size:16px;
+	letter-spacing:0;
+}
+.e70_20 { 
+	color:rgba(255, 255, 255, 1);
+	width:59px;
+	height:13px;
+	position:absolute;
+	left:615px;
+	top:652px;
+	font-family:Droid Sans;
+	text-align:left;
+	font-size:11px;
+	letter-spacing:0;
+}
+.e70_19 { 
+	color:rgba(255, 255, 255, 1);
+	width:43px;
+	height:39px;
+	position:absolute;
+	left:567px;
+	top:626px;
+	font-family:Inter;
+	text-align:left;
+	font-size:32px;
+	letter-spacing:0;
+}
+.e70_21 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:147px;
+	height:2px;
+	position:absolute;
+	left:556px;
+	top:598px;
+}
+.e70_22 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:106px;
+	height:2px;
+	position:absolute;
+	left:584px;
+	top:622px;
+}
+.e70_23 { 
+	color:rgba(255, 255, 255, 1);
+	width:93px;
+	height:18px;
+	position:absolute;
+	left:591px;
+	top:686px;
+	font-family:DM Serif Text;
+	text-align:left;
+	font-size:13px;
+	letter-spacing:0;
+}
+.e35_4 { 
+	color:rgba(0, 0, 0, 1);
+	width:86px;
+	height:23px;
+	position:absolute;
+	left:432px;
+	top:147px;
+	font-family:Inter;
+	text-align:left;
+	font-size:18px;
+	letter-spacing:0;
+}
+.e71_29 { 
+	width:40px;
+	height:39px;
+	position:absolute;
+	left:896px;
+	top:45px;
+	background-image:url(insta.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
